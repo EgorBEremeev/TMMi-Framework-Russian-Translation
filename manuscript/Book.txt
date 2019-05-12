@@ -1,0 +1,12 @@
+TMMi оглавление и заголовок.txt
+Chapter 1.txt
+Chapter 2.txt
+Chapter 3.txt
+TMMi Level 2 Managed.txt
+PA2.1 Test Policy and Strategy.txt
+PA2.2 Test Planning.txt
+PA2.3 Test Monitoring and Control.txt
+PA2.4 Test Design and Execution.txt
+PA2.5_Test Environment.txt
+
+
